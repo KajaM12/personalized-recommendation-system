@@ -1,2 +1,2 @@
-with open("data/book_ratings.csv", "r") as f:
+with open("data/books.csv", "r") as f:
     print(f.read())
